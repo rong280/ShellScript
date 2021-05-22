@@ -17,4 +17,6 @@ echo -e "
 
 if [ $1 = v2ray ];then
   v2ray
+else
+  
 fi
