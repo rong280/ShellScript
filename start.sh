@@ -18,5 +18,5 @@ echo -e "
 if [ $1 = v2ray ];then
   v2ray
 else
-  
+  sleep 0.1
 fi
