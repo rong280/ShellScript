@@ -1,5 +1,5 @@
 #!/bin/bash
-GREEN="\033[32m"
+GREEN="\033[32;01m"
 BIUE="\033[36;5m"
 COLOREND="\033[0m"
 
