@@ -2,7 +2,7 @@
 GREEN="\033[32m"
 COLOREND="\033[0m"
 
-startmenu(){
+v2ray(){
 clear
 echo -e "
                                                ████
@@ -14,4 +14,7 @@ echo -e "
   ${GREEN}V2ray:  ${COLOREND}www.v2ray.com        |      ░░██   ░██████░███   ░░████████  ██
                                         ░░    ░░░░░░ ░░░     ░░░░░░░░  ░░      "
 }
-startmenu
+
+if [ $1 = v2ray ];then
+  v2ray
+fi
