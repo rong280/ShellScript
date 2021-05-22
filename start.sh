@@ -7,7 +7,7 @@ clear
 echo -e "
                                                ████
   ${GREEN}Author: ${COLOREND}Vincent Huang        |              █░░░ █                   ██   ██
-  ${GREEN}Date:   ${COLOREND}2021-03-27           |     ██    ██░    ░█ ██████  ██████   ░░██ ██
+  ${GREEN}Date:   ${COLOREND}2021-05-22           |     ██    ██░    ░█ ██████  ██████   ░░██ ██
   ${GREEN}Blog:   ${COLOREND}www.linux321.com     |    ░██   ░██   ███ ░░██░░█ ░░░░░░██   ░░███
   ${GREEN}Mail:   ${COLOREND}command@111.com      |    ░░██ ░██   █░░   ░██ ░   ███████    ░██
   ${GREEN}Github: ${COLOREND}github.com/rong280   |     ░░████   █      ░██    ██░░░░██    ██
