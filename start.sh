@@ -1,6 +1,6 @@
 #!/bin/bash
 GREEN="\033[32;01m"
-BIUE="\033[36;5m"
+BIUE="\033[36;01;5m"
 COLOREND="\033[0m"
 
 v2ray(){
