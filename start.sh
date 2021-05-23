@@ -1,6 +1,9 @@
 #!/bin/bash
+
 GREEN="\033[32;01m"
 BIUE="\033[36;01;5m"
+RED="\033[31;01m"
+REDH="\033[41;37;01;5m"
 COLOREND="\033[0m"
 
 v2ray(){
@@ -16,6 +19,6 @@ echo -e "
                                         ${BIUE}░░    ░░░░░░ ░░░     ░░░░░░░░  ░░${COLOREND}"
 }
 
-#if [ $1 = v2ray ];then
-#  v2ray
-#fi
+if [ $1 = v2ray ];then
+  v2ray
+fi
