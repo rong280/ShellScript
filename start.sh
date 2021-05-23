@@ -16,6 +16,6 @@ echo -e "
                                         ${BIUE}░░    ░░░░░░ ░░░     ░░░░░░░░  ░░${COLOREND}"
 }
 
-if [ $1 = v2ray ];then
-  v2ray
-fi
+#if [ $1 = v2ray ];then
+#  v2ray
+#fi
